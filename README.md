@@ -9,3 +9,7 @@ My majors are **statistics** and **econometrics**. The programming languages I k
 4. I use **R** most frequently (**data analysis, Bayesian inference, simulations**). 
 
 ## Why choose CS?
+
+**1. Applicability**
+
+During my undergraduate, I study lots of theories in both economics and statistics. However, the course I have taken prepares me mostly for derivation of theories. I don't know how to use it. I see **Machine Learning** and **Time series** can be used in data analysis through online resources. People tend to combine these theories with computer science and to 
